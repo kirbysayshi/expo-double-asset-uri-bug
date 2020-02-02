@@ -1,5 +1,5 @@
 import React from 'react';
-import { StyleSheet, Text, View } from 'react-native';
+import { Text, View } from 'react-native';
 import { Asset } from 'expo-asset';
 
 const test = Asset.fromModule(require('./assets/icon.png'));
